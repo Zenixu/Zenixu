@@ -1,7 +1,12 @@
 <p align = "center"><img src="https://media1.tenor.com/m/zL60WE-hYV8AAAAd/welcome.gif" alt="Banner Gif"/></p>
-<h1 align="center">Hi 👋, I'm Zennrch</h1>
-<h3 align="center">I'm just a Readers.</h3>
+# Welcome to My GitHub Profile! 👾
+<h1>Hello, I'm Zennrch!</h1> 
+<h3>I love coding and pixel art 🎨. Let's build something amazing, pixel by pixel!</h3> 
+## 🖼️ My Pixel Projects
+- 🎮 [Project 1](#)
+- 🌈 [Project 2](#)
 
+## 🛠️ Tech Stack
 ⚡ Fun fact **I love candy and I love you.**
 
 <h3 align="left">Connect with me:</h3>
