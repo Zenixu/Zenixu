@@ -1,5 +1,5 @@
 <p align = "center"><img src="https://media1.tenor.com/m/zL60WE-hYV8AAAAd/welcome.gif" alt="Banner Gif"/></p>
-<h align = "center">Hello, I'm Zennrch!</h1> 
+<h1 align = "center">Hello, I'm Zennrch!</h1> 
 <h3 align = "center">I'm Just A Readers.</h3>
 ⚡ Fun fact **I love candy and I love you.**
 
