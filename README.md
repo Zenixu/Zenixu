@@ -20,7 +20,8 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenixu&show_icons=true&theme=midnight_purple" alt="zenixu" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
