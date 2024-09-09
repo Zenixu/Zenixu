@@ -1,26 +1,17 @@
-<div align= "center">
 <p align = "center"><img src="https://media1.tenor.com/m/zL60WE-hYV8AAAAd/welcome.gif" alt="Banner Gif" width= "50%"</>
-</p><h1 align="center">Hi, my name is Zennrch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">I'm a Readers <img src="https://transmemes.netlify.app/~media/menhera-kun/transparent/352442238.png" width= "5%"></h3>
-<img src="https://w.wallha.com/ws/14/dolv3CFR.png" width="20%" align="right" />
-<pre>
-  💬 Ask me about: Manhwa, Music, Anime.
-  ⚡ Fun fact: I love candy and I love you.
-  
-  
-</pre>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennrch" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QHDFEEGXKQ" height="30" width="40" /></a>
-</p>
+# 💫 About Me:
+I'm a readers.<br>🌱 I’m currently learning: Python, HTML, CSS<br>💬 Ask me about: Manhwa, Song, Anime<br>⚡ Fun fact: I love candy and I love you.
 
-<h3 align="center">I'm learning:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenixu&show_icons=true&show_icons=true&theme=dracula" alt="zenixu" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zenixu&show_icons=true&show_icons=true&theme=dracula" alt="zenixu" /></p>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QHDFEEGXKQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zennrch) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zclovers) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zenixu&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zenixu&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
