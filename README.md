@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zennrch</h1>
 <h3 align="center">I'm just a Readers.</h3>
 
-<h2 align"center">- ⚡ Fun fact **I love candy and I love you.**</h2>
+⚡ Fun fact **I love candy and I love you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
