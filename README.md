@@ -1,4 +1,4 @@
-<p align = "center"><img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="Banner Gif"/></p>
+<p align = "center"><img src="https://media1.tenor.com/m/zL60WE-hYV8AAAAd/welcome.gif" alt="Banner Gif"/></p>
 <h1 align="center">Hi 👋, I'm Zennrch</h1>
 <h3 align="center">I'm just a Readers.</h3>
 
