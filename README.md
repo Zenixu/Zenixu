@@ -20,10 +20,10 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenixu&show_icons=true&show_icons=true&theme=dracula" alt="zenixu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenixu&show_icons=true&theme=midnight_purple" alt="zenixu" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zenixu&show_icons=true&show_icons=true&theme=dracula" alt="zenixu" /></p>
-### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://github-contributor-stats.vercel.app/api?username=Zenixu&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 </div>
