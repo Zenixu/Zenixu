@@ -22,7 +22,8 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
-
+<footer>
+  
+</footer>
 
 </div>
