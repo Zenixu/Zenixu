@@ -5,7 +5,7 @@
 <img src="https://w.wallha.com/ws/14/dolv3CFR.png" width="20%" align="right" />
 <pre>
   💬 Ask me about: Manhwa, Music, Anime.
-  ⚡ Fun fact: I love candy and I love you.
+  ⚡ Fun fact: I love candy and I love Nesya.
   
   
 </pre>
