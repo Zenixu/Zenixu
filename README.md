@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennrch" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QHDFEEGXKQ" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4?si=VKC6EPmOTP2Ed6iEWUxq5Q" <img src="Spotifylogo.png " alt=" "  /></a>
+  <a href="https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4?si=VKC6EPmOTP2Ed6iEWUxq5Q" target="blank"><img align="center" src="Spotifylogo.png" alt="Zen" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">I'm learning:</h3>
@@ -21,9 +21,5 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-
-<footer>
-  
-</footer>
 
 </div>
