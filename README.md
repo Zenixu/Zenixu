@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennrch" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QHDFEEGXKQ" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4?si=VKC6EPmOTP2Ed6iEWUxq5Q" <img src="Spotifylogo.png " alt=" "  /></a>
 </p>
 
 <h3 align="center">I'm learning:</h3>
@@ -21,10 +22,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=Zenixu&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-contributor-stats.vercel.app/api?username=Zenixu&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 </div>
