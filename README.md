@@ -27,7 +27,7 @@
     </h3>
 <footer>
 <pre>
-    <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side I want to be myself that you like the most"</i></p>
+    <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side <br>I want to be myself that you like the most"</i></p>
   </pre>
   <h2><strong>My Progress</strong></h2>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
