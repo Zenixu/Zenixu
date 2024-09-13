@@ -25,7 +25,6 @@
   ────────────────●──
    　<br>◁ ❚❚ ▷ ↻
     </h3>
-
 <footer>
 <pre>
     <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side I want to be myself that you like the most"</i></p>
