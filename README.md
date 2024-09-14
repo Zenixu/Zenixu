@@ -38,6 +38,7 @@
 </pre>
   <h2><strong>My Progress</strong></h2>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
+  <img src="https://raw.githubusercontent.com/Zenixu/Zenixu/output/snake.svg" alt="Snake animation" />
 </footer>
 </div>
 
