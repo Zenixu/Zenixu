@@ -20,7 +20,12 @@
 </p>
 
 <h3 align="center">I'm learning:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</p>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>    
@@ -29,11 +34,10 @@
     </h3>
 <footer>
 <pre>
-    <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side <br>I want to be myself that you like the most"</i></p>
-  </pre>
+  <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side <br>I want to be myself that you like the most"</i></p>
+</pre>
   <h2><strong>My Progress</strong></h2>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
-
 </footer>
 </div>
 
