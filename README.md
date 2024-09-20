@@ -12,8 +12,8 @@
 </pre>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennrch" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QHDFEEGXKQ" height="30" width="40" /></a>
+  <a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zennrch" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QHDFEEGXKQ" height="30" width="40" /></a>
   <a href="https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4?si=VKC6EPmOTP2Ed6iEWUxq5Q" target="blank"><img align="center" src="Spotifylogo.png" alt="Zen" height="30" width="30" /></a>
   <p align="left">
   </p>
@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs"/>
 </p>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
