@@ -6,7 +6,7 @@
    　<br>◁ ❚❚ ▷ ↻</h3>
 <pre>
   💬 Ask me about: Manhwa, Music, Anime.
-  ⚡ Fun fact: I love candy and I love Aysen.
+  ⚡ Fun fact: I love candy, Rain, and I love You.
   🎶 my fav song: Someone to stay, somewhere only we know and This side of paradise. 
   
 </pre>
