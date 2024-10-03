@@ -6,8 +6,8 @@
    　<br>◁ ❚❚ ▷ ↻</h3>
 <pre>
   💬 Ask me about: Manhwa, Music, Anime.
-  ⚡ Fun fact: I love candy, Rain, and I love You.
-  🎶 my fav song: Someone to stay, somewhere only we know and This side of paradise. 
+  ⚡ Fun fact: I love candy, Rain, and im always love soang.
+  🎶 my fav song: Someone to stay, Pelangi-Hivi. 
   
 </pre>
 <h3 align="center">Connect with me:</h3>
