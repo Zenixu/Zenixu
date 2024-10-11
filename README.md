@@ -39,6 +39,7 @@
 <pre>
   <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side <br>I want to be myself that you like the most"</i></p>
 </pre>
+  <h2 align="center"><em>You can scan my uploaded progress here</em> <br><br><img align="left" src="Zportofolio.png" width="20%" alt="portofolio" /><img align="right" src="ZToDoList.png" width="20%" alt="Todolist" /></h2>
   <h2><strong>My Progress</strong></h2>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" /></p>
 
