@@ -7,7 +7,7 @@
    　<br>◁ ❚❚ ▷ ↻</h3>
 <pre>
   💬 Ask me about: Manhwa, Music, Anime.
-  ⚡ Fun fact: I love candy, and I love you?.
+  ⚡ Fun fact: I love candy and I love you.
   🎶 my fav song: if u could see me cryin' in my room. 
   
 </pre>
