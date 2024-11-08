@@ -3,8 +3,7 @@
 </p>
 <h1 align="center"><em><strong>Hi, My Name Is Zennrch <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></em></h1>
 <h3 align="center">I'm a <mark><ins>Readers</ins></mark> <img src="https://transmemes.netlify.app/~media/menhera-kun/transparent/352442238.png" width= "5%"><br>    
-  ─●───────────────
-   　<br>◁ ❚❚ ▷ ↻</h3>
+<img src="https://media.giphy.com/media/QcsgICMkobE8meOZDs/giphy.gif?cid=790b7611sh5chyc72iscyt0t8t6x8tv7zkjt2m0xin4gydf0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 <pre>
   💬 Ask me about: Manhwa, Music, Anime.
   ⚡ Fun fact: I love candy and I love you.
