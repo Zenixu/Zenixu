@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/zennrch" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J0MzRxcnZ5Z3ViY3FyODA5bG8xcXNjZXljemh1bzB0cHFva3gzaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bV4FNmKxinDONenppU/giphy.gif" alt="zennrch" width="50" /></a>
-  <a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV1eGZrZHl6aGU5cTlidGx1NmE5MzRodGMwNGtjemZvenZ4YW92bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fo5y4K3GD3RYijvsCS/giphy.gif" alt="https://discord.gg/QHDFEEGXKQ" width="50" /></a>
+  <a href="https://discord.gg/https://discord.gg/QHDFEEGXKQ" target="blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV1eGZrZHl6aGU5cTlidGx1NmE5MzRodGMwNGtjemZvenZ4YW92bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fo5y4K3GD3RYijvsCS/giphy.gif" alt="https://discord.gg/twinklestar" width="50" /></a>
   <a href="https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4?si=VKC6EPmOTP2Ed6iEWUxq5Q" target="blank"><img align="center" src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=790b76117cw16aif4afjxx13jmq22fcuhfezo8fwil8loa5b&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Zen" width="50" /></a>
   <p align="left">
   </p>
