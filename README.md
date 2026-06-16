@@ -210,7 +210,7 @@ const ibnurch = {
 
 <br>
 
-![Snake animation]([https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg))
+![Snake animation](https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg)
 
 
 </div>
