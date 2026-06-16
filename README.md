@@ -117,10 +117,19 @@ const ibnurch = {
 
 ### AI & Automation
 <p>
-  <img src="https://img.shields.io/badge/OpenRouter-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-A855F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/9Router-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-00C853?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-00A95C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white" />
+</p>
+
+### Tools & Editors
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 </div>
@@ -174,9 +183,13 @@ const ibnurch = {
 <!-- Spotify Section -->
 <div align="center">
 
-## 🎶 Currently Vibing To
+## 🎶 Spotify Activity
 
+### Now Playing
 [![Spotify](https://novatorem-zenixu.vercel.app/api/spotify?background_color=0D1117&border_color=A855F7)](https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4)
+
+### Recently Played
+[![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31d4psh6tebtpg66hlfvkbuh5ly4&count=5&unique=true)](https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4)
 
 </div>
 
@@ -202,9 +215,12 @@ const ibnurch = {
 
 <br>
 
-![Snake animation](https://github.com/Zenixu/Zenixu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,12&height=150&section=footer&text=See%20You%20Around!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%" />
+
+
