@@ -184,11 +184,6 @@ const ibnurch = {
 <div align="center">
 
 ## 🎶 Spotify Activity
-
-### Now Playing
-[![Spotify](https://novatorem-zenixu.vercel.app/api/spotify?background_color=0D1117&border_color=A855F7)](https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4)
-
-### Recently Played
 [![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31d4psh6tebtpg66hlfvkbuh5ly4&count=5&unique=true)](https://open.spotify.com/user/31d4psh6tebtpg66hlfvkbuh5ly4)
 
 </div>
@@ -215,7 +210,7 @@ const ibnurch = {
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Zenixu/Zenixu/output/github-contribution-grid-snake.svg))
 
 
 </div>
