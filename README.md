@@ -39,12 +39,9 @@
   <p align="center"><i><br>"I want to be the person you like the most, <br>but on the other side <br>I want to be myself that you like the most"</i></p>
 </pre>
 
-  <h2><strong>You Can Scan My Progress</strong></h2>
+  <h2><strong>You Can Scan See My Progress</strong></h2>
   <p align="center">
-    <img align="left" src="Zportofolio.png" width="20%" alt="portofolio" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenixu&theme=midnight-purple&show_icons=true&locale=en&layout=compact"alt="Zenixu" />
-    <img align="right" src="ZToDoList.png" width="20%" alt="Todolist" /></p>
-
   
 </footer>
 </div>
