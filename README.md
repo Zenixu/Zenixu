@@ -163,6 +163,44 @@ const ibnurch = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Trophies Section -->
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zenixu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+</p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Highlights Section -->
+<div align="center">
+
+## ⚡ Quick Highlights
+
+<p>
+  <img src="https://img.shields.io/github/followers/Zenixu?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Zenixu?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=STARS" />
+  <img src="https://img.shields.io/github/last-commit/Zenixu/Zenixu?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=LAST+UPDATE" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-A855F7?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-00C853?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Location-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-A855F7?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- Projects Section -->
 <div align="center">
 
