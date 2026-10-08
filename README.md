@@ -28,6 +28,7 @@ const ibnurch = {
   name: "Ibnurch",
   nickname: "Zennrch",
   role: "Full-Stack Developer",
+  website: "aruthtales.my.id",
   location: "Indonesia 🇮🇩",
   passions: ["Coding", "Anime", "Music", "Manhwa", "Automation"],
   currentlyLearning: "AI & Machine Learning Integrations",
@@ -53,6 +54,12 @@ const ibnurch = {
 ## 🤝 Connect With Me
 
 <!-- Social Media Badges -->
+<a href="https://aruthtales.my.id">
+  <img src="https://img.shields.io/badge/Website-aruthtales.my.id-A855F7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://rchibnu.aruthtales.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-rchibnu.aruthtales.my.id-6366F1?style=for-the-badge&logo=about.me&logoColor=white" />
+</a>
 <a href="https://instagram.com/zennrch">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -208,6 +215,7 @@ const ibnurch = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🌐 **[Aruthtale](https://aruthtales.my.id)** | Studio web & portfolio — showcase karya + profil personal | Next.js, TypeScript, pnpm monorepo |
 | 🤖 **Aruthtale Bot** | WhatsApp & Telegram AI bot ecosystem | Node.js, Baileys, Telegram API |
 | 🌐 **Arutha** | Full-stack web application | TypeScript, React, Next.js |
 | 💼 **Rch Portfolio** | Personal portfolio website | HTML, CSS, JavaScript, Astro |
